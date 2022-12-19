@@ -1,0 +1,25 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "myTokens": [
+      {
+        "id": 0,
+        "name":
+        "description":
+        "URL": 
+      },
+      {
+        "id": 0,
+        "name":
+        "description":
+        "URL": 
+      },
+      {
+        "id": 0,
+        "name":
+        "description":
+        "URL": 
+      }
+    ]
+    
+}
