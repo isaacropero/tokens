@@ -1,23 +1,23 @@
 {
     "title": "Asset Metadata",
     "type": "object",
-    "myTokens": [
+    "weapons": [
       {
         "id": 0,
-        "name": "coche"
-        "description":
+        "name": "lance1"
+        "description": "Lance with low attack power",
         "URL": 
       },
       {
-        "id": 0,
-        "name":
-        "description":
+        "id": 1,
+        "name": "lance2",
+        "description": "Lance with middle attack power",
         "URL": 
       },
       {
-        "id": 0,
-        "name":
-        "description":
+        "id": 3,
+        "name": "lance3",
+        "description": "Lance with hight attack power",
         "URL": 
       }
     ]
