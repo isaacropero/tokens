@@ -2,7 +2,7 @@
   "weapons": [
       {
         "id": 0,
-        "name": "lance1"
+        "name": "lance1",
         "description": "Lance with low attack power",
         "URL": "https://github.com/isaacropero/tokens/blob/main/weapon1.jpg"
       },
