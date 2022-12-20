@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "lance1"
+    "description": "Lance with low attack power",
+    "URL": "https://github.com/isaacropero/tokens/blob/main/weapon1.jpg"
+  },
+  {
+    "id": 1,
+    "name": "lance2",
+    "description": "Lance with middle attack power",
+    "URL": "https://github.com/isaacropero/tokens/blob/main/weapon2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "lance3",
+    "description": "Lance with hight attack power",
+    "URL": "https://github.com/isaacropero/tokens/blob/main/weapon3.jpg"
+  }
+]
