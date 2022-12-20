@@ -1,6 +1,4 @@
 {
-  "title": "WeaponAsset Metadata",
-  "type": "object", 
   "weapons": [
       {
         "id": 0,
